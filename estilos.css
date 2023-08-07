@@ -1,0 +1,8 @@
+main > .container{
+    padding: 30px 0;
+}
+body{
+    min-height: 100vh;
+    
+    background:rgba(108, 222, 242, 0.206);
+}
